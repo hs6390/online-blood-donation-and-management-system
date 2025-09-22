@@ -83,9 +83,9 @@ $password = "";
 
 ---
 
-## Screenshots
+## Project Links(OBD&MS)
 
-*(Add screenshots here to showcase your system: login page, dashboard, donor list, etc.)*
+https://online-blood-donation.liveblog365.com/
 
 ---
 
