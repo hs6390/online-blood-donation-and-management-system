@@ -101,7 +101,7 @@ https://online-blood-donation.liveblog365.com/
 
 ## Author
 
-**Harsh Drivastava**
+**Harsh Srivastava**
 
 * Enrolment No.: 2105081384
 * BCA Student, IGNOU
